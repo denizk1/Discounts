@@ -1,2 +1,2 @@
-# Discounts
-Siscounts Project
+# Auth System
+User login with authentication system
